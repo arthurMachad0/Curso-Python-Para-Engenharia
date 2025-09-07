@@ -1,12 +1,11 @@
+# Projeto 1-> Conversor PDF/MD
+docling
+docling-parse
 
-# Projeto 1-> Curvas de Bode
+# Projeto 2-> Curvas de Bode
 numpy 
 control 
 matplotlib
-
-# Projeto 2-> Conversor PDF/MD
-docling
-docling-parse
 
 # Automação Web
 selenium
@@ -15,4 +14,5 @@ urllib3
 webdriver_manager
 pandas
 openpyxl
+
 python-dotenv
