@@ -1,6 +1,6 @@
 # Curso de Extensão de Práticas de Python na Engenharia Elétrica:
-- Projeto 1: Traçar gráficos de curvas de bode ;
-- Projeto 2: Converter arquivo PDF para MD ;
+- Projeto 1: Converter arquivo PDF para MD ;
+- Projeto 2: Traçar gráficos de curvas de bode ;
 - Projeto 3: Automação web para busca de materiais fotovoltaicos.
 
 # Arquivos Anexados:
