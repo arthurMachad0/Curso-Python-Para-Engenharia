@@ -1,0 +1,18 @@
+
+# Projeto 1-> Curvas de Bode
+numpy 
+control 
+matplotlib
+
+# Projeto 2-> Conversor PDF/MD
+docling
+docling-parse
+
+# Automação Web
+selenium
+chromedriver-autoinstaller
+urllib3
+webdriver_manager
+pandas
+openpyxl
+python-dotenv
